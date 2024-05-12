@@ -1,7 +1,7 @@
 # Excel-Sales-Analytics
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]()_This report aims to provide insights into customer behavior, purchasing trends, and profitability metrics.
+    **1.** Create a _[customer performance report](https://github.com/ShamliBajad/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_This report aims to provide insights into customer behavior, purchasing trends, and profitability metrics.
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_This analysis helps in evaluating the performance of sales teams and assessing the alignment of sales efforts with predefined targets.
 
